@@ -446,7 +446,7 @@ var WETH = (
         _WETH[exports.ChainId.RINKEBY] = /*#__PURE__*/new Token(exports.ChainId.RINKEBY, '0xc778417E063141139Fce010982780140Aa0cD5Ab', 18, 'WETH', 'Wrapped Ether'),
         _WETH[exports.ChainId.GÖRLI] = /*#__PURE__*/new Token(exports.ChainId.GÖRLI, '0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6', 18, 'WETH', 'Wrapped Ether'),
         _WETH[exports.ChainId.KOVAN] = /*#__PURE__*/new Token(exports.ChainId.KOVAN, '0xd0A1E359811322d97991E03f863a0C30C2cF029C', 18, 'WETH', 'Wrapped Ether'),
-        _WETH[exports.ChainId.TEST] = /*#__PURE__*/new Token(exports.ChainId.TEST, '0x05fDbDfaE180345C6Cff5316c286727CF1a43327', 18, 'WETH', 'Wrapped Ether'),
+        _WETH[exports.ChainId.TEST] = /*#__PURE__*/new Token(exports.ChainId.TEST, '0x6b29C65597Fa2aC80Ab181989969092971f1Fa4e', 18, 'WETH', 'Wrapped Ether'),
         _WETH);
 
 var _toSignificantRoundin, _toFixedRounding;

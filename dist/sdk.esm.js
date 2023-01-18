@@ -529,7 +529,7 @@ var WETH =
   )),
   (_WETH[ChainId.TEST] = /*#__PURE__*/ new Token(
     ChainId.TEST,
-    '0x05fDbDfaE180345C6Cff5316c286727CF1a43327',
+    '0x6b29C65597Fa2aC80Ab181989969092971f1Fa4e',
     18,
     'WETH',
     'Wrapped Ether'
